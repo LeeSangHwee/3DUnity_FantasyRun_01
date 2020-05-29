@@ -1,0 +1,32 @@
+animation:
+idle	
+walk					
+run					
+jump					
+attack 1				
+attack 2				
+attack 3				
+attack 4				
+attack 5/ dash attack			
+jump attack				
+special/surround attack			
+pick weapon				
+weapon melee attack/ throw weapon		
+lift object				
+idle with object			
+walk lift object			
+throw object				
+damage					
+fall					
+get up					
+evade attack				
+
+
+model:
+avatar 1
+avatar 2
+weapon_base ball batt
+weapon_katana sword
+weapon_knife
+weapon_shuriken star
+
